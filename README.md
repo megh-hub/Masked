@@ -1,11 +1,11 @@
-Masked - The Face you know, The Story you don't
+# Masked - The Face you know, The Story you don't
 
-The Problem Statement:
+## The Problem Statement:
 
 Picture this, you wake up to a blaring cell-phone and your friend asks you to check a link. You click on it and you see what you never thought you would, yourself in a sexually explicit video on a shady site. You are clueless and helpless. Now what!! 
 
 
-Solution:
+## Solution:
 
 We provide a centralized hub for people in such situations to secure their privacy and make an immediate step towards trying to stop people from consuming their content. This platform also makes it such that the reporter can take a step anonymously.
 
@@ -18,7 +18,7 @@ Our site will also contain lots of resources that spreads awareness about the pr
 The project will be 100% open source and transparent with the user so that they can feel confident about their anonymity.
 
 
-Future of the project:
+## Future of the project:
 
 We plan to use video fingerprinting to find copies of reported videos on other sites. 
 
